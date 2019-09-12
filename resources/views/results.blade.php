@@ -39,7 +39,7 @@
                 <aside aria-label="sidebar" class="sidebar sidebar-right">
                     <div  class="widget w-tags">
                         <div class="heading text-center">
-                            <h4 class="heading-title">TRENDY BLOG TAGS</h4>
+                            <h4 class="heading-title">Trendy Blog Tags</h4>
                             <div class="heading-line">
                                 <span class="short-line"></span>
                                 <span class="long-line"></span>
